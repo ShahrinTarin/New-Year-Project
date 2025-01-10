@@ -74,7 +74,7 @@ header{
 
 }
 .midnight2{
-    background: linear-gradient(90.00deg, rgb(16, 16, 16) 2.5%,rgba(16, 16, 16, 0) 100%),url(../images/Vectorrr.png);
+    background: linear-gradient(90.00deg, rgb(16, 16, 16) 2.5%,rgba(16, 16, 16, 0) 100%),url(./images/vector.png);
     border-radius: 16px;
     width: 1320px;
     height: 600px;
