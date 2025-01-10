@@ -10,7 +10,7 @@ body{
     font-family: "Merriweather", serif;
 }
 header{
-    background: linear-gradient( 180.00deg, rgb(16, 16, 16) -5.5%,rgba(16, 16, 16, 0) 130%),url("../images/Banner\ Image.png");
+    background: linear-gradient( 180.00deg, rgb(16, 16, 16) -5.5%,rgba(16, 16, 16, 0) 130%),url("../images/Banner Image.png");
     height: 600px;
     width: 1320px;
     margin: 50px auto 297px;
